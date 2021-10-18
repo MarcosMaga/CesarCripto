@@ -1,7 +1,7 @@
 # CesarCripto
 Uma classe de C# que criptografa e descriptografa strings de acordo com a cifra de Cesar.
 
-##Funções
+## Funções
 
 * Cripto.Crip(string val, int key)
 
